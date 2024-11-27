@@ -21,6 +21,6 @@ If the company registers in the form of quantity licenses, it will not be necess
 
 <figure><img src="../.gitbook/assets/Screenshot_20240216-190544.png" alt="" width="360"><figcaption></figcaption></figure>
 
-6. That's it! Your **\<NomeProduto>** license has been activated. Tap finish to start using the device.
+6. That's it! Your **Datamob Enterprise** license has been activated. Tap finish to start using the device.
 
 <figure><img src="../.gitbook/assets/Screenshot_20240216-190616.png" alt="" width="360"><figcaption></figcaption></figure>

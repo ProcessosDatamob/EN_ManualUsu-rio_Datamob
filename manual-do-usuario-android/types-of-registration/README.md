@@ -1,6 +1,6 @@
 # Types of registration
 
-There are three possible ways of registering with **\<NomeProduto>** : scanning a QR Code, registration token and Zero Touch registration.
+There are three possible ways of registering with **Datamob Enterprise** : scanning a QR Code, registration token and Zero Touch registration.
 
 We will explain each one in detail in the following sections of this manual.
 
