@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Datamob Enterprise.jpg
+coverY: 0
+---
+
 # Android User's Manual
 
 This manual is intended to help the user install and activate Datamob Enterprise on mobile devices.
